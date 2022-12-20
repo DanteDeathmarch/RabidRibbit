@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">rabbid ribbet</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="gametitle">GameTitle</string>
+    <string name="frogtech_png_linearlayout"><![CDATA[frogtech.png /LinearLayout>]]></string>
+    <string name="start">Start</string>
+    <string name="res_drawable_frogtech_png">res/drawable/frogtech.png</string>
+</resources>
